@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const xRapidapiHost = 'ott-details.p.rapidapi.com';
-const xRapidapiKey = 'a345d8a49fmsh9d3b7741234c512p1e7335jsn6da4ad37b28b';
+const xRapidapiKey = '44c41f2064msh290d8816b3c4d6cp1159e3jsn0d6440085e8c';
 
 const axiosInstance = axios.create({
   baseURL: `https://${xRapidapiHost}`,
